@@ -1,4 +1,4 @@
-# Telegram AI Chatbot with Gemini API Integration
+# A.I Telegram Chatbot 
 
 This project is a Telegram bot powered by AI. The bot performs various tasks like user registration, handling user queries with AI-generated responses, analyzing images and files, and providing web search functionality. The chatbot is integrated with the Gemini API, which powers text generation and image analysis.
 
